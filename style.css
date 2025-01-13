@@ -5,3 +5,8 @@ body{
 h1{
     color: red;
 }
+
+p{
+    border-color: blanchedalmond;
+    font-size: 30px;
+}
